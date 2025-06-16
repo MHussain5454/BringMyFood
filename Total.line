@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>About Us</title>
+  </head>
+  <body>
+    <h1>About Us</h1>
+    <pre>
+        We Are Here To Help You
+        In Deliver Food To Your Home.
+        Our Aim Is To Help You Deliver
+        Foods At Your Home.
+    </pre>
+  </body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>
+      BringMyBite - Food delivery at your doorstep :) You i'll like it
+    </title>
+  </head>
+  <body>
+    <img src="/logo.png" alt="logo" height="100" />
+    <header>
+      <div>BringMyBite</div>
+      <div>
+        <a href="/home.html">Home</a>
+      </div>
+    </header>
+    <main>
+      <div>Order Food Anytime, Any Where</div>
+    </main>
+    <footer>Copyright BringMyBite All Rights Reserved</footer>
+    <h1>💬 About BringMyBite</h1>
+    <p>
+      BringMyBite is a delivery-only service that connects you with your
+      favorite local food spots. We don’t cook — we bring what you love. Our
+      mission is to support local restaurants while delivering flavor, comfort,
+      and speed to your door.
+    </p>
+    <h2>⭐ Why Choose Us</h2>
+    <pre>
+        🚀 <a href="/super_fast.html">Super Fast Delivery</a>
+
+        🛍️ <a href="/trusted.html">No Cloud Kitchens — Just trusted restaurants</a>
+
+        🔄 <a href="/real_time.html">Real-Time Order Tracking</a>
+
+        💬 <a href="/friendly.html">Friendly Support Anytime</a>
+    </pre>
+  </body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Contact</title>
+  </head>
+  <body>
+    <h1><b>Contact</b></h1>
+    <h2>India,<b>+91-90026-26247</b></h2>
+    <h2>Pakistan,<b>+92-31126-27247</b></h2>
+    <h2>Dar-us-salam,<b>+255-726-262-247</b></h2>
+    <h2>Housten,<b>+1-832-262-7247</b></h2>
+    <h2>Qom,<b>+98-912-262-7247</b></h2>
+  </body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Credits</title>
+  </head>
+  <body>
+    <h1><b>Credits</b></h1>
+    <pre><b>Credits To: Mohammed Hussain</b></pre>
+    <h2><b>Mohammed Hussain's Contact Number</b></h2>
+    <pre><b>Contact: +91-90026-26247</b></pre>
+  </body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Friendly</title>
+  </head>
+  <body>
+    <h1><b>Thanks For Telling</b></h1>
+  </body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Home</title>
+  </head>
+  <body>
+    <h1><b>Home</b></h1>
+    <a href="/base.html">Go To Start</a>
+    <a href="/use.html">How To Use</a>
+    <a href="/contact.html">Contact</a>
+    <a href="/about.html">About Us</a>
+    <a href="/credits.html">Credits</a>
+    <a href="/work.html">Work</a>
+  </body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Real Time</title>
+  </head>
+  <body>
+    <h1><b>Thanks For Telling</b></h1>
+  </body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Super Fast</title>
+  </head>
+  <body>
+    <h1><b>Thanks For Telling</b></h1>
+  </body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Trusted</title>
+  </head>
+  <body>
+    <h1><b>Thanks For Telling</b></h1>
+  </body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Use</title>
+  </head>
+  <body>
+    <h1><b>How To Use This Website</b></h1>
+    <pre>
+        To Use This Website Click The Link Given Below And Go To Home Page
+        Then If U Want To Work In This Website And Want To Deliver Food So
+        Click Work Or If You Want To Order Something So Go To Contact
+        And Dial The Number Of The Country Where You Live Eg If U Live
+        In India So Dial : India, +91-90026-26247
+        
+        <a href="/home.html">Home</a></pre>
+  </body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Work</title>
+  </head>
+  <body>
+    <h1><b>Work</b></h1>
+    <pre>If U Want To Work In This Website So Dial: +92-31126-27247</pre>
+  </body>
+</html>

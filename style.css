@@ -1,0 +1,129 @@
+/* Base Styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  background: linear-gradient(to right, #ff9a9e, #fad0c4, #fbc2eb, #a18cd1);
+  background-size: cover;
+  color: #222;
+  font-size: 16px;
+  line-height: 1.6;
+  padding-top: 120px; /* space for fixed header */
+}
+
+/* Fixed Header */
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.85);
+  padding: 20px;
+  text-align: center;
+  z-index: 9999;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.4);
+}
+
+header h1 {
+  color: #FF5722;
+  font-size: 36px;
+  margin-bottom: 10px;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  margin: 0 15px;
+  font-weight: 500;
+  font-size: 16px;
+}
+
+nav a:hover {
+  color: #FFAB00;
+}
+
+/* Hero Section */
+.hero {
+  text-align: center;
+  padding: 100px 20px 60px;
+}
+
+.hero h2 {
+  font-size: 42px;
+  color: white;
+  margin-bottom: 20px;
+}
+
+.hero p {
+  font-size: 20px;
+  color: #f2f2f2;
+  margin-bottom: 30px;
+}
+
+.btn {
+  background-color: #FF5722;
+  color: white;
+  border: none;
+  padding: 14px 32px;
+  border-radius: 25px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+
+.btn:hover {
+  background-color: #e64a19;
+}
+
+/* Section */
+.section {
+  padding: 60px 20px;
+  max-width: 1000px;
+  margin: auto;
+  text-align: center;
+}
+
+.section h3 {
+  font-size: 28px;
+  color: #FF5722;
+  margin-bottom: 30px;
+}
+
+/* Steps */
+.steps {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 20px;
+}
+
+.step {
+  background-color: rgba(255, 255, 255, 0.9);
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+.step h4 {
+  color: #FF5722;
+  margin-bottom: 10px;
+}
+
+/* Footer */
+footer {
+  background-color: rgba(0, 0, 0, 0.8);
+  color: #ccc;
+  text-align: center;
+  padding: 40px 20px;
+  margin-top: 60px;
+  font-size: 14px;
+}
+
+footer a {
+  color: #FF5722;
+  text-decoration: none;
+  margin: 0 10px;
+}
